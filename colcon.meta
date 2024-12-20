@@ -1,0 +1,12 @@
+{
+    "names":{
+        "*":{
+            "cmake-args":[
+                "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON",
+            ],
+            "build":{
+                "cmake-clean-cache": true
+            } 
+        }
+    }
+}
